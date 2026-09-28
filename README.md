@@ -1,4 +1,4 @@
-# 🚀 Sai Sumanth Valluri — Developer Portfolio
+# 🚀 Gautam kumar — Developer Portfolio
 
 <div align="center">
 
@@ -9,8 +9,6 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 **A modern, fully responsive, accessible personal portfolio built with Next.js 15, React 19, TypeScript & Tailwind CSS.**
-
-[🌐 Live Demo](https://your-portfolio.com) · [📬 Contact](mailto:vsaisumanth9951@gmail.com) · [🐛 Report Bug](https://github.com/yourprofile/portfolio/issues)
 
 </div>
 
@@ -114,7 +112,7 @@ sumanth-portfolio/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourprofile/portfolio.git
+git clone https://github.com/gautamsiddharth09/my_modern_portfolio.git
 cd portfolio
 
 # 2. Install dependencies
@@ -335,10 +333,10 @@ This project is open source under the [MIT License](LICENSE). Feel free to use i
 
 **Sai Sumanth Valluri**
 
-- 📧 [vsaisumanth9951@gmail.com](mailto:vsaisumanth9951@gmail.com)
+- 📧 [gautamsiddharth2013@gmail.com](mailto:gautamsiddharth2013@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
 - 🐙 [GitHub](https://github.com/yourprofile)
-- 📍 Hyderabad, Telangana, India
+- 📍 Delhi, India
 
 ---
 
