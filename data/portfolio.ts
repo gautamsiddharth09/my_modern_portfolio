@@ -21,7 +21,7 @@ export const socialLinks: SocialLink[] = [
 	{ name: "Phone", url: "tel:+917808233110", icon: "phone" },
 ];
 
-export const achievements = [
+export const achievements: { label: string; value: string }[] = [
   // { value: "1+", label: "Years Experience" },
   // { value: "10+", label: "Product Pages Built" },
   // { value: "15+", label: "REST APIs Developed" },
