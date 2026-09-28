@@ -334,8 +334,8 @@ This project is open source under the [MIT License](LICENSE). Feel free to use i
 **Gautam Kumar**
 
 - 📧 [gautamsiddharth2013@gmail.com](mailto:gautamsiddharth2013@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐙 [GitHub](https://github.com/yourprofile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gautam-kumar-b4052b9b)
+- 🐙 [GitHub](https://github.com/gautamsiddharth09)
 - 📍 Delhi, India
 
 ---
