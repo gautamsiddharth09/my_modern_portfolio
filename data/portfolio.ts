@@ -155,8 +155,8 @@ export const projects: Project[] = [
 		title: "MoneyMint",
 		description: "Fintech Platform",
 		longDescription:
-			"A MERN-based fintech platform for financial management and digital lending, featuring income, expense, transaction, loan application, disbursement, EMI tracking, and Google Gemini-powered credit risk assessment.",
-		techStack: ["MongoDB", "Express.js", "React", "Node.js", "JWT",  "Joi validation", "Razorpay",],
+			"A MERN-based fintech platform for financial management and digital lending, featuring income, expense, transaction, loan application, document verification, disbursement, EMI tracking, and repayment management. Integrated Google Gemini for AI-powered credit risk assessment using applicant financial data.",
+		techStack: ["MongoDB", "Express.js", "React", "Node.js", "JWT",  "Joi", "Razorpay","Gemini AI"],
 		liveUrl: "https://money-mint-frontend.vercel.app",
 		codeUrl: "https://github.com/gautamsiddharth09/MoneyMint_Backend.git",
 		image: "/assets/projects/money-mint.png",
@@ -168,8 +168,8 @@ export const projects: Project[] = [
 		title: "Support IQ",
 		description: " AI-Powered SaaS Customer Support Tool",
 		longDescription:
-			"Built an AI-powered SaaS chatbot using Google Gemini, with secure authentication, chatbot configuration, conversation management, dynamic website embedding, and a responsive, performance-optimized UI.",
-		techStack: [ "Next.js", "TypeScript" , "Node.js" , "Express.js" , "MongoDB" , "Gemini API"],
+			"An AI-powered SaaS chatbot using Google Gemini to provide automated customer support. Implemented secure authentication, chatbot configuration, conversation management and REST APIs. Added dynamic script embedding that enables users to integrate the chatbot into any website with minimal setup.",
+		techStack: [ "Next.js", "TypeScript" , "Node.js" , "Express.js" , "MongoDB" , "Google Gemini AI",],
 		liveUrl: "https://support-iq-five.vercel.app",
 		codeUrl: "https://github.com/gautamsiddharth09/Support_IQ.git",
 		image: "/assets/projects/support-iq.png",
