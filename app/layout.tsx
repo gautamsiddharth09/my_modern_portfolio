@@ -44,7 +44,7 @@ export const metadata: Metadata = {
 		type: "website",
 		locale: "en_US",
 		url: "https://mymodernportfolio-ochre.vercel.app/",
-		title: "Gautam kumar | Frontend Developer | Backend Developer | Mern Stack Developer",
+		title: "Gautam kumar | Mern Stack Developer | Frontend Developer | Backend Developer",
 		description:
 			"Mern Stack Developer with 1+ years of experience building scalable, high-performance web applications using React, Next.js, TypeScript, Node.js, Express, and MongoDB Based in Delhi, India.",
 		siteName: "Gautam Kumar Portfolio",
