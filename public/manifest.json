@@ -1,0 +1,16 @@
+{
+  "name": "Gautam Kumar | Portfolio",
+  "short_name": "GK.dev",
+  "description": "MERN Stack Developer – React & Next.js Specialist",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070A13",
+  "theme_color": "#5B4FE8",
+  "icons": [
+    {
+      "src": "/assets/my-image.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ]
+}
