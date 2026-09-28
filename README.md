@@ -331,7 +331,7 @@ This project is open source under the [MIT License](LICENSE). Feel free to use i
 
 ## 🙋 Author
 
-**Sai Sumanth Valluri**
+**Gautam Kumar**
 
 - 📧 [gautamsiddharth2013@gmail.com](mailto:gautamsiddharth2013@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)

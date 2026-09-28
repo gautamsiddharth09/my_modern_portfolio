@@ -71,7 +71,7 @@ export default function Navbar() {
           href="#"
           className="font-display font-bold text-lg tracking-tight transition-opacity hover:opacity-80"
           style={{ color: "var(--text)" }}
-          aria-label="Sai Sumanth Valluri — back to top"
+          aria-label="Gautam  kumar — back to top"
         >
           <span className="gradient-text">GK</span>
           <span className="font-light ml-1 text-sm" style={{ color: "var(--muted)" }}>

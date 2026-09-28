@@ -22,45 +22,46 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-	title: "Sai Sumanth Valluri | Senior Frontend Developer",
+	title: "Gautam Kumar | Mern Stack Developer",
 	description:
-		"Senior Frontend Developer with 4+ years of experience building scalable, high-performance web applications using React, Next.js, and TypeScript. Based in Hyderabad, India.",
+		"Mern Stack Developer with 1+ years of experience building scalable, high-performance web applications using React, Next.js, TypeScript, Node.js, Express, and MongoDB Based in Delhi, India.",
 	keywords: [
-		"Sai Sumanth Valluri",
+		"Gautam Kumar",
+		"Mern Stack Developer",
+		"Backend Developer",
 		"Frontend Developer",
 		"React Developer",
 		"Next.js Developer",
 		"TypeScript",
-		"Hyderabad",
-		"SDE",
+		"Delhi",
 		"Web Developer",
 		"Portfolio",
 		"Full Stack Developer",
 	],
-	authors: [{ name: "Sai Sumanth Valluri", url: "https://sumanth-modern-portfolio.vercel.app/" }],
-	creator: "Sai Sumanth Valluri",
+	authors: [{ name: "Gautam  kumar", url: "https://mymodernportfolio-ochre.vercel.app/" }],
+	creator: "Gautam kumar",
 	openGraph: {
 		type: "website",
 		locale: "en_US",
-		url: "https://sumanth-modern-portfolio.vercel.app/",
-		title: "Sai Sumanth Valluri | Senior Frontend Developer",
+		url: "https://mymodernportfolio-ochre.vercel.app/",
+		title: "Gautam kumar | Frontend Developer | Backend Developer | Mern Stack Developer",
 		description:
-			"Senior Frontend Developer with 4+ years of experience in React & Next.js. Building fast, accessible, and beautiful web experiences.",
-		siteName: "Sai Sumanth Valluri Portfolio",
+			"Mern Stack Developer with 1+ years of experience building scalable, high-performance web applications using React, Next.js, TypeScript, Node.js, Express, and MongoDB Based in Delhi, India.",
+		siteName: "Gautam Kumar Portfolio",
 		images: [
 			{
-				url: "/assets/my-image.jpeg",
+				url: "/assets/my-image.png",
 				width: 1200,
 				height: 630,
-				alt: "Sai Sumanth Valluri - Senior Frontend Developer",
+				alt: "Gautam Kumar - Mern Stack Developer",
 			},
 		],
 	},
 	twitter: {
 		card: "summary_large_image",
-		title: "Sai Sumanth Valluri | Senior Frontend Developer",
-		description: "Senior Frontend Developer specializing in React & Next.js.",
-		images: ["/assets/my-image.jpeg"],
+		title: "Gautam Kumar | Mern Stack Developer",
+		description: "Mern Stack Developer specializing in React, Next.js, TypeScript, Node.js, Express.Js",
+		images: ["/assets/my-image.png"],
 	},
 	robots: {
 		index: true,
@@ -73,7 +74,7 @@ export const metadata: Metadata = {
 			"max-snippet": -1,
 		},
 	},
-	metadataBase: new URL("https://sumanth-modern-portfolio.vercel.app/"),
+	metadataBase: new URL("https://mymodernportfolio-ochre.vercel.app/"),
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
