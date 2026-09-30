@@ -116,15 +116,18 @@ export default function About() {
                 boxShadow: "var(--shadow)",
               }}
             >
+
               <div className="prose max-w-none space-y-4">
                 <p
                   className="text-base sm:text-lg leading-relaxed"
                   style={{ color: "var(--text-2)" }}
                 >
+
                   I&apos;m{" "}
                   <strong style={{ color: "var(--text)", fontWeight: 600 }}>
                     Gautam Kumar
                   </strong>
+                  
                   , a{" "}
                   <span style={{ color: "var(--primary)", fontWeight: 600 }}>
                     Full Stack MERN Developer
